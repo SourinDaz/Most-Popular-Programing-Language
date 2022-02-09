@@ -12,7 +12,7 @@ plt.style.use("fivethirtyeight")
 
 # Data :
     
-data = pd.read_excel("/storage/emulated/0/Python Projects/Matplotlib/Matplotlib Line Chart/Country's Population Growth Comparison/Population Growth.xlsx")
+data = pd.read_excel("Population Growth.xlsx")
 
 
 # Assigning data :
