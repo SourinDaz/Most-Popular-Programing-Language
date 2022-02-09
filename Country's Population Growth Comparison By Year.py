@@ -1,5 +1,5 @@
 
-# The program reads an excel file where the population growth of many countries between the years of 1952 and 2007 is given. The task it performs is to compare only the population growthof the U.S, China, India, and the U.K over the years by plotting a line graph. 
+# The program reads an excel file where the population growth of many countries between the years of 1952 and 2007 is given. The task it performs is to compare only the population growth of the U.S, China, India, and the U.K over the years by plotting a line graph. 
 
 
 import pandas as pd
