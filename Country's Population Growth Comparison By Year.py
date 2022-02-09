@@ -9,7 +9,7 @@ plt.style.use("fivethirtyeight")
 
 # Data :
     
-data = pd.read_excel("Population Growth.xlsx")
+data = pd.read_excel("https://github.com/SourinDaz/Most-Popular-Programing-Language/blob/3faec0dc1d9f2d9cf5bc418066efd4580b3202f1/Population%20Growth.xlsx")
 
 
 # Assigning data :
