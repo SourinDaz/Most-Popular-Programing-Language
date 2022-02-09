@@ -1,7 +1,4 @@
 
-# The program reads an excel file where the population growth of many countries between the years of 1952 and 2007 is given. The task it performs is to compare only the population growth of the U.S, China, India, and the U.K over the years by plotting a line graph. 
-
-
 import pandas as pd
 
 import matplotlib.pyplot as plt
@@ -36,6 +33,7 @@ plt.plot(india.Year, india.Population / 10**6, label = "India")
 
 plt.plot(uk.Year, uk.Population / 10**6, label = "United Kingdome")
 
+
 # Labeling :
     
 plt.title("Country's Population Growth By Year (in million)")
@@ -49,5 +47,3 @@ plt.ylabel("Population >>> ")
 plt.tight_layout()
 
 plt.show()
-
-''' Created By Sourin Das '''
